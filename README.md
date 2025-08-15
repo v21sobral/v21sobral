@@ -31,6 +31,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v21sobral&layout=compact&theme=radical" width="48%" />
 </p>
 
+## 📚 **Academic Background**
+
+[<img align="left" height="94px" width="94px" src="https://i.postimg.cc/k4brvXpj/unifacs.png"/>](https://www.unifacs.br)  
+**Bachelor's Degree in Computer Science**  
+[**Universidade Salvador - UNIFACS**](https://www.unifacs.br)  
+August 2023 – December 2027
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=v21sobral&theme=radical" width="48%" />
 </p>

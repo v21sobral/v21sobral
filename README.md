@@ -4,7 +4,9 @@
 <p align="center">
   <img src="https://github.com/v21sobral/v21sobral/blob/main/img/21Nerfado.gif" alt="programmer gif" />
 </p>
-
+<p align="center">
+  <img src="https://github.com/v21sobral/v21sobral/blob/main/img/Apaixonado%20por%20tecnologia%20com%20fundo.gif" alt="frases gif" />
+</p>
 
 
 

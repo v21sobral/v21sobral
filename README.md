@@ -26,22 +26,19 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=v21sobral&show_icons=true&theme=radical" width="48%" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v21sobral&layout=compact&theme=radical" width="48%" />
 </p>
-
-## 📚 **Academic Background**
-
-[<img align="left" height="94px" width="94px" src="https://i.postimg.cc/k4brvXpj/unifacs.png"/>](https://www.unifacs.br)  
-**Bachelor's Degree in Computer Science**  
-[**Universidade Salvador - UNIFACS**](https://www.unifacs.br)  
-August 2023 – December 2027
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=v21sobral&theme=radical" width="48%" />
 </p>
-
 <br>
+
+## 📚 **Academic Background**
+
+[<img align="left" height="94px" width="94px" src="https://pbs.twimg.com/profile_images/1392525282008051715/_8DbfRKe_400x400.jpg"/>](https://www.unifacs.br)  
+**Bachelor's Degree in Computer Science**  
+[**Universidade Salvador - UNIFACS**](https://www.unifacs.br)  
+August 2023 – December 2027
 
 

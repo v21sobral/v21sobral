@@ -39,12 +39,12 @@
 [<img align="left" height="94px" width="94px" src="https://github.com/v21sobral/v21sobral/blob/main/img/unifacsAnima.gif"/>](https://www.unifacs.br)  
 **Student of systems analysis and development**  
 [**Universidade Salvador - UNIFACS**](https://www.unifacs.br)  
-August 2024 – December 2026
+Frebuary 2024 – August 2026
 
 [<img align="left" height="94px" width="94px" src="https://github.com/v21sobral/v21sobral/blob/main/img/SenaiAnima.gif"/>](https://senai.portaldaindustria.com.br/)  
 **Student of systems and development**  
 [**Serviço Nacional de Aprendizagem Industrial - SENAI**](https://senai.portaldaindustria.com.br/)  
-August 2025 – December 2026
+Frebuary 2025 – December 2026
 
 
 

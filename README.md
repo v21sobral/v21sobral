@@ -36,9 +36,9 @@
 
 ## 📚 **Academic Background**
 
-[<img align="left" height="94px" width="94px" src="https://pbs.twimg.com/profile_images/1392525282008051715/_8DbfRKe_400x400.jpg"/>](https://www.unifacs.br)  
-**Bachelor's Degree in Computer Science**  
+[<img align="left" height="94px" width="94px" src="https://github.com/v21sobral/v21sobral/blob/main/img/unigacsAnima.gif"/>](https://www.unifacs.br)  
+**systems analysis and development**  
 [**Universidade Salvador - UNIFACS**](https://www.unifacs.br)  
-August 2023 – December 2027
+August 2024 – December 2026
 
 

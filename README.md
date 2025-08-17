@@ -17,6 +17,7 @@
 [![Python](https://skillicons.dev/icons?i=python&theme=dark)](https://skillicons.dev)
 [![html](https://skillicons.dev/icons?i=html&theme=dark)](https://skillicons.dev)
 [![CSS](https://skillicons.dev/icons?i=css&theme=dark)](https://skillicons.dev)
+[![Docker](https://skillicons.dev/icons?i=docker&theme=dark)](https://skillicons.dev)
 
 ## 📊 **GitHub Stats**
 

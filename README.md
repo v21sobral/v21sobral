@@ -8,7 +8,7 @@
   <img src="https://github.com/v21sobral/v21sobral/blob/main/img/Apaixonado%20sem%20fundo.gif" alt="frases gif" />
 </p>
 
-
+---
 
 ### 💻 **Technologies**
 

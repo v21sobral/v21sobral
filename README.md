@@ -3,7 +3,7 @@
 </p>
 <p align="center">
   <img src="https://github.com/v21sobral/v21sobral/blob/main/img/Victor%20Sobral.png" alt="programmer png" />
-   <img src="https://github.com/v21sobral/v21sobral/blob/main/img/Apaixonado%20sem%20fundo.gif" alt="frases gif" />
+   <img src="https://media.giphy.com/media/4c6D6cIvZ187wJxlcf/giphy.gif" alt="frases gif" />
 </p>
 
 

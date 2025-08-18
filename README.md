@@ -40,7 +40,7 @@
 **Student of systems analysis and development**  
 [**Universidade Salvador - UNIFACS**](https://www.unifacs.br)  
 Frebuary 2024 – August 2026
-
+<br>
 [<img align="left" height="120px" width="120px" src="https://github.com/v21sobral/v21sobral/blob/main/img/SenaiAnima.gif"/>](https://senai.portaldaindustria.com.br/)  
 **Student of systems and development**  
 [**Serviço Nacional de Aprendizagem Industrial - SENAI**](https://senai.portaldaindustria.com.br/)  

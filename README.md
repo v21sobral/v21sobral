@@ -36,7 +36,7 @@
 
 ## 📚 **Academic Background**
 
-[<img align="left" height="100px" width="100px" src="https://github.com/v21sobral/v21sobral/blob/main/img/unifacsAnima.gif"/>](https://www.unifacs.br)  
+[<img align="left" height="90px" width="100px" src="https://github.com/v21sobral/v21sobral/blob/main/img/unifacsAnima.gif"/>](https://www.unifacs.br)  
 **Student of systems analysis and development**  
 [**Universidade Salvador - UNIFACS**](https://www.unifacs.br)  
 Frebuary 2024 – August 2026

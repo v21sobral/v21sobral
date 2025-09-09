@@ -18,6 +18,7 @@
 [![html](https://skillicons.dev/icons?i=html&theme=dark)](https://skillicons.dev)
 [![CSS](https://skillicons.dev/icons?i=css&theme=dark)](https://skillicons.dev)
 [![Docker](https://skillicons.dev/icons?i=docker&theme=dark)](https://skillicons.dev)
+[![React](https://skillicons.dev/icons?i=react&theme=dark)](https://skillicons.dev)
 
 ## 📊 **GitHub Stats**
 
@@ -44,7 +45,7 @@ Frebuary 2024 – August 2026
 [<img align="left" height="100px" width="100px" src="https://github.com/v21sobral/v21sobral/blob/main/img/SenaiAnima.gif"/>](https://senai.portaldaindustria.com.br/)  
 **Student of systems and development**  
 [**Serviço Nacional de Aprendizagem Industrial - SENAI**](https://senai.portaldaindustria.com.br/)  
-Frebuary 2025 – December 2026
+Febuary 2025 – December 2026
 
 
 

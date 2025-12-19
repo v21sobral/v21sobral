@@ -19,6 +19,7 @@
 [![CSS](https://skillicons.dev/icons?i=css&theme=dark)](https://skillicons.dev)
 [![Docker](https://skillicons.dev/icons?i=docker&theme=dark)](https://skillicons.dev)
 [![React](https://skillicons.dev/icons?i=react&theme=dark)](https://skillicons.dev)
+[![React](https://skillicons.dev/icons?i=figma&theme=dark)](https://skillicons.dev)
 
 ## 📊 **GitHub Stats**
 

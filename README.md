@@ -24,6 +24,12 @@
 [![React](https://skillicons.dev/icons?i=illustrator&theme=dark)](https://skillicons.dev)
 [![React](https://skillicons.dev/icons?i=photoshop&theme=dark)](https://skillicons.dev)
 [![React](https://skillicons.dev/icons?i=mysql&theme=dark)](https://skillicons.dev)
+[![React](https://skillicons.dev/icons?i=nodejs&theme=dark)](https://skillicons.dev)
+[![React](https://skillicons.dev/icons?i=postman&theme=dark)](https://skillicons.dev)
+[![React](https://skillicons.dev/icons?i=premiere&theme=dark)](https://skillicons.dev)
+[![React](https://skillicons.dev/icons?i=sequelize&theme=dark)](https://skillicons.dev)
+[![React](https://skillicons.dev/icons?i=vscode&theme=dark)](https://skillicons.dev)
+[![React](https://skillicons.dev/icons?i=vite&theme=dark)](https://skillicons.dev)
 
 ## 📊 **GitHub Stats**
 
